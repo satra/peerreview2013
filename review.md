@@ -38,6 +38,8 @@ The ease of information storage and dissemination through the web, the prolifera
 
 #References
 
+JM: added bib file with full references
+
 [spier_2002]: XXX
 
 [kronick_1990]: Kronick DA. Peer review in 18th-century scientific journalism. JAMA 1990;263:1321–2.
